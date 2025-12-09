@@ -1,3 +1,5 @@
+Kaggle dataset link- https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
 NYC Airbnb Data Analysis & Price Modeling
 
 This project performs a complete exploratory, statistical, and machine-learning–driven analysis of the AB_NYC_2019 Airbnb dataset.
